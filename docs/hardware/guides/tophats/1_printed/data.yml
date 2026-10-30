@@ -28,7 +28,7 @@ printed_bom:
   Mid Clips:
     qty: 4
     urls:
-      Link: https://github.com/DraftShift/Tophat/blob/main/Printed%20version/STLs/Midclip_[a]_x4.stl?raw=true
+      Link: https://github.com/DraftShift/Tophat/blob/main/Printed%20version/STLs/Midclip_%5Ba%5D_x4.stl?raw=true
 
 hardware_bom:
     M3x8 SHCS Screws:

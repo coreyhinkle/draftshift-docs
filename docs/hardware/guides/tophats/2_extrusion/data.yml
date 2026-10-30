@@ -25,7 +25,7 @@ printed_bom:
     qty: 1
     urls:
       1mm Foam: https://github.com/MotorDynamicsLab/LDOStealthChanger/blob/master/STLs/LDO%20Tophat%20Hinge%20(1mm%20foam).stl?raw=true
-      3mm Foam: https://github.com/MotorDynamicsLab/LDOStealthChanger/blob/master/STLs/LDO%20Tophat%20Hinge%20(3mm%20foam).stl?raw=true
+      3mm Foam: https://github.com/MotorDynamicsLab/LDOStealthChanger/blob/master/STLs/LDO%20Tophat%20Hinge%20(3mm%20foam%20frame%20and%20panels).stl?raw=true
 
 hardware_bom:
   Vertical Extrusions:

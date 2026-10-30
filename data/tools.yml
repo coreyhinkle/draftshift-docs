@@ -53,8 +53,8 @@ toolheads:
       stubby_dock: false
       user_mod_backplates: false
       dsd_backplates:
-        short: https://github.com/DraftShift/StealthChanger/blob/main/STLs/Backplates/BlackBird_Short.stl?raw=true
-        medium: https://github.com/DraftShift/StealthChanger/blob/main/STLs/Backplates/BlackBird_Medium.stl?raw=true
+        short: https://github.com/DraftShift/StealthChanger/blob/main/STLs/Backplates/Blackbird_Short.stl?raw=true
+        medium: https://github.com/DraftShift/StealthChanger/blob/main/STLs/Backplates/Blackbird_Medium.stl?raw=true
       thesin_backplates: 
         short: https://github.com/DraftShift/StealthChanger/blob/main/UserMods/TheSin-/PCB36_Mount/BlackBird_Short.stl?raw=true
         medium: https://github.com/DraftShift/StealthChanger/blob/main/UserMods/TheSin-/PCB36_Mount/BlackBird_Medium.stl?raw=true
@@ -110,7 +110,7 @@ toolheads:
         RapidBurner: https://github.com/DraftShift/StealthChanger/blob/main/STLs/Backplates/RapidBurner.stl?raw=true
         spacer: https://github.com/DraftShift/StealthChanger/blob/main/STLs/Backplates/RapidBurner_Spacer.stl?raw=true
       thesin_backplates: 
-        hf: https://github.com/DraftShift/StealthChanger/blob/main/UserMods/TheSin-/PCB36_Mount/RapidBurner_HF.stl?raw=true
+        hf: https://github.com/DraftShift/StealthChanger/blob/main/UserMods/TheSin-/PCB36_Mount/RapidBurner.stl?raw=true
       author: chirpy2605
       url: https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner
 

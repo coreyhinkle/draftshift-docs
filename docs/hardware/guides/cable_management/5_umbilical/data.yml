@@ -24,7 +24,7 @@ printed_bom:
   Relief:
     qty: 1
     urls:
-      Link: https://github.com/DraftShift/CableManagement/blob/main/STLs/Umbilical/Voron/TPU_Version/%5Btpu%5D_Relief_Voron_x5xN.stl
+      Link: https://github.com/DraftShift/CableManagement/blob/main/STLs/Umbilical/Voron/TPU_Version/%5Btpu%5D_Relief_Voron_xN.stl
 
 hardware_bom:
   Spring Steel .3x3mm by length needed:
